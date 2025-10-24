@@ -1,0 +1,6 @@
+shell:startup
+regedit
+gpedit.msc
+msconfig
+%appdata%
+mrt
