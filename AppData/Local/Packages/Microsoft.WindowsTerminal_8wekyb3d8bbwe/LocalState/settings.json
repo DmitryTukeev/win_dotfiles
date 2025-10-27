@@ -96,16 +96,8 @@
             "keys": "alt+shift+j"
         },
         {
-            "id": null,
-            "keys": "ctrl+shift+4"
-        },
-        {
             "id": "User.copy.644BA8F2",
             "keys": "ctrl+c"
-        },
-        {
-            "id": "User.newTab.F4C304FB",
-            "keys": "ctrl+t"
         },
         {
             "id": "User.splitPane.A6751878",
@@ -114,6 +106,10 @@
         {
             "id": "User.newTab.89E6CA61",
             "keys": "ctrl+shift+5"
+        },
+        {
+            "id": "User.newTab.F4C304FB",
+            "keys": "ctrl+o"
         }
     ],
     "newTabMenu": 
